@@ -7,10 +7,10 @@ client.on("ready", () => {
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
   let statuses = [
-    "|ASTERAY MARG UP📌✌|",
+    "| Dr.Staff UP👑✌|",
     "|دڵ تەنگ مەبن خودا لەگڵمانە ❤😻|",
-    "|☀𝗔𝗕𝗢 𝗨𝗣⬆☀|",
-    "All Staf am up"
+    "|☀REDZONE⬆☀|",
+    "JOKER.KURDISH UP😈"
   ];
 
   setInterval(function() {
@@ -1213,4 +1213,4 @@ client.on("message", message => {
 
 // Events
 
-client.login("");
+client.login("NzY3MTA4Nzk5Nzg1NTk4OTc3.YGTMBw.YmJRB2PFTAjtwiSRExrPWvnHl_Y");
